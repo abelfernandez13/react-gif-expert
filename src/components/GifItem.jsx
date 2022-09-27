@@ -12,5 +12,3 @@ export const GifItem = ({title,url}) => {
 
 export default GifItem
 
-
-
